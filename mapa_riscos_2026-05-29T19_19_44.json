@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1780078873701,
+    "name": "🔌 Falta de energia elétrica",
+    "prob": 2,
+    "impact": 3,
+    "response": "Manter nobreak e gerador reserva. Backup em nuvem a cada hora."
+  },
+  {
+    "id": 1780078873702,
+    "name": "👨‍💻 Saída de desenvolvedor sênior",
+    "prob": 2,
+    "impact": 5,
+    "response": "Documentar conhecimento, treinar substituto, manter rede de contatos."
+  },
+  {
+    "id": 1780078873703,
+    "name": "📱 Mudança de requisitos pelo cliente",
+    "prob": 4,
+    "impact": 3,
+    "response": "Metodologia ágil, sprints curtas, contrato com limite de mudanças."
+  },
+  {
+    "id": 1780078873704,
+    "name": "💰 Estouro de orçamento",
+    "prob": 3,
+    "impact": 4,
+    "response": "Reserva de contingência de 15%, revisão semanal de custos."
+  },
+  {
+    "id": 1780082020231,
+    "name": "🦷 Falta de açúcar no escritório",
+    "prob": 1,
+    "impact": 1,
+    "response": "Aceitar - O impacto é muito baixo e não afeta diretamente o projeto. Resolver isso não justifica gastar tempo ou dinheiro."
+  },
+  {
+    "id": 1780082068893,
+    "name": "🌩️ Tempestade danifica roteador",
+    "prob": 4,
+    "impact": 4,
+    "response": "Mitigar - A região litorânea aumenta a chance do problema. Backup de internet e proteção elétrica reduzem os danos."
+  },
+  {
+    "id": 1780082097614,
+    "name": "👨‍💼 Gerente de projetos sai da empresa",
+    "prob": 3,
+    "impact": 5,
+    "response": "Mitigar - A probabilidade é média, mas o impacto é muito alto porque o conhecimento está centralizado nele."
+  },
+  {
+    "id": 1780082119078,
+    "name": "📉 Cliente reduz orçamento em 30%",
+    "prob": 4,
+    "impact": 5,
+    "response": "Mitigar - Existe chance considerável de mudança financeira e isso afetaria fortemente o projeto."
+  },
+  {
+    "id": 1780082140918,
+    "name": "🐛 Bug crítico em produção no fim de semana",
+    "prob": 5,
+    "impact": 5,
+    "response": "Evitar - O sistema movimenta muito dinheiro, então qualquer falha crítica pode causar prejuízo enorme."
+  },
+  {
+    "id": 1780082162766,
+    "name": "🏢 Fornecedor atrasa servidor",
+    "prob": 2,
+    "impact": 2,
+    "response": "Aceitar - O atraso é possível, mas existe folga suficiente no cronograma para absorver o problema."
+  },
+  {
+    "id": 1780082192533,
+    "name": "🧠 Desenvolvedor júnior erra",
+    "prob": 3,
+    "impact": 2,
+    "response": "Mitigar - Retrabalho é relativamente comum, mas o impacto é pequeno em um projeto grande."
+  },
+  {
+    "id": 1780082298454,
+    "name": "⚖️ Nova lei exige adaptações simples",
+    "prob": 2,
+    "impact": 2,
+    "response": "Mitigar - A chance é baixa e os ajustes são simples, então pequenas adaptações resolvem o problema."
+  },
+  {
+    "id": 1780082334493,
+    "name": "🏭 Incêndio destrói data center principal",
+    "prob": 2,
+    "impact": 5,
+    "response": "Transferir - Apesar de raro, o impacto é extremo. Seguro e contratos de backup ajudam a transferir prejuízos."
+  },
+  {
+    "id": 1780082361389,
+    "name": "📱 Concorrente lança produto similar grátis",
+    "prob": 4,
+    "impact": 4,
+    "response": "Evitar - Existe alta chance de perda de clientes, então é importante agir antes para reduzir o impacto competitivo."
+  }
+]
