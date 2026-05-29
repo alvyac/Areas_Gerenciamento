@@ -1,0 +1,289 @@
+{
+  "integracao": {
+    "tap": "Projeto: Conecta Campus — Jornal Digital UFJF & Proz DS\nPatrocinador: Proz Educação e equipe acadêmica do projeto\nObjetivo: Criar um jornal digital para divulgar benefícios, oportunidades, eventos e informações da Universidade Federal de Juiz de Fora e do curso técnico de Desenvolvimento de Sistemas da Proz Educação, oferecendo conteúdo acessível e informativo para estudantes."
+  },
+  "escopo": {
+    "entregas": [
+      "Página inicial do jornal",
+      "Área de notícias",
+      "Seção sobre a UFJF",
+      "Seção sobre a Proz",
+      "Área de eventos e oportunidades",
+      "Layout responsivo",
+      "Sistema de navegação do site"
+    ],
+    "atividades": [
+      "Levantamento de informações",
+      "Planejamento do jornal digital",
+      "Criação do design da interface",
+      "Desenvolvimento das páginas",
+      "Produção das notícias e conteúdos",
+      "Testes do site",
+      "Correção de erros",
+      "Publicação do projeto"
+    ]
+  },
+  "tempo": {
+    "cronograma": [
+      {
+        "atividade": "Planejamento do projeto",
+        "responsavel": "Álvaro e Igor",
+        "validacao": "Aprovação da equipe",
+        "dataEntrega": "2026-06-05"
+      },
+      {
+        "atividade": "Levantamento de informações",
+        "responsavel": "Igor",
+        "validacao": "Conteúdo revisado",
+        "dataEntrega": "2026-06-08"
+      },
+      {
+        "atividade": "Criação do design do jornal",
+        "responsavel": "Álvaro",
+        "validacao": "Interface aprovada",
+        "dataEntrega": "2026-06-11"
+      },
+      {
+        "atividade": "Desenvolvimento da página inicial",
+        "responsavel": "Álvaro",
+        "validacao": "Testes funcionais",
+        "dataEntrega": "2026-06-14"
+      },
+      {
+        "atividade": "Desenvolvimento das seções UFJF e Proz",
+        "responsavel": "Igor",
+        "validacao": "Conteúdo validade",
+        "dataEntrega": "2026-06-16"
+      },
+      {
+        "atividade": "Implementação das notícias e eventos",
+        "responsavel": "Álvaro e Igor",
+        "validacao": "Revisão completa",
+        "dataEntrega": "2026-06-18"
+      },
+      {
+        "atividade": "Testes e correção de erros",
+        "responsavel": "Álvaro e Igor",
+        "validacao": "Sistema funcionando",
+        "dataEntrega": "2026-06-21"
+      },
+      {
+        "atividade": "Entrega final do projeto",
+        "responsavel": "Igor e Álvaro",
+        "validacao": "Projeto aprovado",
+        "dataEntrega": "2026-06-24"
+      }
+    ]
+  },
+  "partes": {
+    "stakeholders": [
+      {
+        "nome": "Estudantes da UFJF",
+        "estrategia": "Divulgação de notícias, eventos acadêmicos e oportunidades voltadas aos alunos."
+      },
+      {
+        "nome": "Alunos da Proz",
+        "estrategia": "Publicação de conteúdos sobre tecnologia, projetos e benefícios do curso técnico."
+      },
+      {
+        "nome": "Professores e Coordenação",
+        "estrategia": "Reuniões periódicas e validação das informações publicadas no jornal."
+      },
+      {
+        "nome": "Visitantes do site",
+        "estrategia": "Produzir conteúdos organizados, acessíveis e com navegação intuitiva."
+      },
+      {
+        "nome": "Equipe do Projeto (Álvaro e Igor)",
+        "estrategia": "Comunicação constante através de WhatsApp, Trello e reuniões semanais."
+      }
+    ]
+  },
+  "rh": {
+    "equipe": [
+      {
+        "papel": "Product Owner",
+        "responsavel": "Igor",
+        "habilidades": "Organização de requisitos, visão do projeto e definição de conteúdo"
+      },
+      {
+        "papel": "Dev Front-end",
+        "responsavel": "Álvaro",
+        "habilidades": "HTML/CSS/JS"
+      },
+      {
+        "papel": "Scrum Master",
+        "responsavel": "Álvaro",
+        "habilidades": "Liderança, organização da equipe e acompanhamento das tarefas"
+      },
+      {
+        "papel": "Designer e Redator",
+        "responsavel": "Igor",
+        "habilidades": "Design de interface, criatividade e produção de conteúdo"
+      }
+    ]
+  },
+  "comunicacao": {
+    "planoComunicacao": [
+      {
+        "canal": "WhatsApp",
+        "frequencia": "Diário",
+        "responsavel": "Todos"
+      },
+      {
+        "canal": "Trello",
+        "frequencia": "Semanal",
+        "responsavel": "Álvaro"
+      },
+      {
+        "canal": "Google Meet",
+        "frequencia": "Quinzenal",
+        "responsavel": "Álvaro e Igor"
+      },
+      {
+        "canal": "Github",
+        "frequencia": "Contínuo",
+        "responsavel": "Igor"
+      },
+      {
+        "canal": "Email",
+        "frequencia": "Sexta-feira",
+        "responsavel": "Álvaro"
+      }
+    ]
+  },
+  "custos": {
+    "orcamentos": [
+      {
+        "atividade": "Planejamento do projeto",
+        "equipe": 100,
+        "materiais": 0,
+        "equipamentos": 0
+      },
+      {
+        "atividade": "Pesquisa de conteúdo",
+        "equipe": 150,
+        "materiais": 20,
+        "equipamentos": 0
+      },
+      {
+        "atividade": "Desenvolvimento do site",
+        "equipe": 300,
+        "materiais": 0,
+        "equipamentos": 100
+      },
+      {
+        "atividade": "Design da interface",
+        "equipe": 100,
+        "materiais": 30,
+        "equipamentos": 0
+      },
+      {
+        "atividade": "Testes e ajustes",
+        "equipe": 80,
+        "materiais": 0,
+        "equipamentos": 0
+      },
+      {
+        "atividade": "Divulgação do projeto",
+        "equipe": 50,
+        "materiais": 20,
+        "equipamentos": 0
+      }
+    ]
+  },
+  "aquisicoes": {
+    "contratos": [
+      {
+        "fornecedor": "GitHub Pages",
+        "objeto": "Hospedagem",
+        "status": "Confirmado"
+      },
+      {
+        "fornecedor": "Trello",
+        "objeto": "Organização das tarefas",
+        "status": "Em uso"
+      },
+      {
+        "fornecedor": "Canva",
+        "objeto": "Criação do design e imagens",
+        "status": "Confirmado"
+      },
+      {
+        "fornecedor": "Google Drive",
+        "objeto": "Armazenamento de arquivos",
+        "status": "Em uso"
+      }
+    ]
+  },
+  "riscos": {
+    "riscosLista": [
+      {
+        "descricao": "Atraso no desenvolvimento do site",
+        "impacto": "Negativo",
+        "planoResposta": "Dividir tarefas entre Álvaro e Igor e acompanhar o cronograma semanalmente"
+      },
+      {
+        "descricao": "Falta de conteúdo atualizado",
+        "impacto": "Negativo",
+        "planoResposta": "Organizar calendário de publicações e pesquisas"
+      },
+      {
+        "descricao": "Problemas de organização da equipe",
+        "impacto": "Negativo",
+        "planoResposta": "Realizar reuniões rápidas e manter comunicação constante"
+      },
+      {
+        "descricao": "Falhas no site durante apresentação",
+        "impacto": "Negativo",
+        "planoResposta": "Testar o sistema antes da entrega e manter backup do projeto"
+      },
+      {
+        "descricao": "Maior interesse dos alunos no jornal digital",
+        "impacto": "Positivo",
+        "planoResposta": "Produzir mais conteúdos e divulgar o projeto nas redes sociais"
+      },
+      {
+        "descricao": "Uso de ferramentas online melhora produtividade",
+        "impacto": "Positivo",
+        "planoResposta": "Continuar utilizando Trello, GitHub e Google Drive no desenvolvimento"
+      }
+    ]
+  },
+  "qualidade": {
+    "criterios": [
+      {
+        "metrica": "Funcionamento do site",
+        "aceitacao": "Todas as páginas abrirem corretamente"
+      },
+      {
+        "metrica": "Responsividade",
+        "aceitacao": "Site funcionando em celular e computador"
+      },
+      {
+        "metrica": "Organização das informações",
+        "aceitacao": "Conteúdos separados em categorias claras"
+      },
+      {
+        "metrica": "Navegação do usuário",
+        "aceitacao": "Menu e botões funcionando corretamente"
+      },
+      {
+        "metrica": "Desempenho do sistema",
+        "aceitacao": "Páginas carregando rapidamente"
+      },
+      {
+        "metrica": "Qualidade visual",
+        "aceitacao": "Layout organizado e agradável"
+      },
+      {
+        "metrica": "Revisão dos conteúdos",
+        "aceitacao": "Textos sem erros ortográficos"
+      },
+      {
+        "metrica": "Entrega do projeto",
+        "aceitacao": "Projeto finalizado dentro do prazo"
+      }
+    ]
+  }
+}
